@@ -3,7 +3,6 @@
 This repository contains my C++ solutions to selected **LeetCode problems**, focusing on
 efficient algorithms, clean implementations, and interview-oriented problem solving.
 
-## 📁 Structure
 
 Each file corresponds to a single LeetCode problem and is named using the following format:
 
